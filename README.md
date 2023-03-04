@@ -1,9 +1,15 @@
 # Jungle-card-game
 There are many cards in this game , each card is a symbol of an animal .
+
+![image](https://user-images.githubusercontent.com/99418863/222900523-610d354d-7bd0-44d1-a2a1-285acb9304c7.png)
+
 At the beginning of the game , 30 cards are randomly given to each player .
 In these 30 cards , each animal can be repeated zero to five times .
 Then each player , among these 30 cards , puts aside 20 cards and chooses 10 cards and will continue to play with these ten cards .
 Then , while everyone can see their opponent's 10 cards , the game starts .
+
+![image](https://user-images.githubusercontent.com/99418863/222900687-0ea61d15-9a1b-4c97-8d2f-e9bc9b67ff00.png)
+
 Each player moves one turn and then it is the turn of the next player .
 Each player in his turn can choose one or more cards and use them to target one of the opponent's cards .
 The player can choose to use any card or cards he has chosen to attack with his normal hit or his strong hit .
